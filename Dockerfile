@@ -1,4 +1,4 @@
-FROM docker.io/library/python
+FROM registry.access.redhat.com/ubi8/python-38
 
 LABEL maintainer="dvercill@redhat.com"
 LABEL version="1.0"
